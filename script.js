@@ -24,4 +24,4 @@ if (condition === true) {
         sum += startNumber;
         }
     }
- console.log(sum);
+ console.log('the sum of numbers is '+ sum);
